@@ -1,0 +1,5 @@
+What is Java?
+ What are the main features of Java?
+What is a Constructor in Java?
+What is the Java Virtual Machine (JVM)?
+What is the difference between ArrayList and LinkedList?
